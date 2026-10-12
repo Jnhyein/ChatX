@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE5/ChatX/Content/Maps/Chatting.umap",
+				"C:/UE5/ChatX/Content/Blueprints/Game/BP_CH4TGameModeBase.uasset",
+				"C:/UE5/ChatX/Content/Blueprints/UI/BP_CH4TChatInput.uasset",
+				"C:/UE5/ChatX/Content/Blueprints/UI/WBP_NotificationText.uasset",
+				"C:/UE5/ChatX/Content/Blueprints/UI/WBP_CH4TChatInput.uasset",
+				"C:/UE5/ChatX/Content/Blueprints/UI/WBP_CH4TNotificationText.uasset",
+				"C:/UE5/ChatX/Content/Blueprints/Player/BP_CH4TPlayerController.uasset",
+				"C:/UE5/ChatX/Content/Blueprints/Game/MyCH4TGameModeBase.uasset"
+			]
+		}
+	]
+}
